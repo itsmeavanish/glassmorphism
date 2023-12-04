@@ -43,6 +43,7 @@ body, html {
     border-radius: 1.6rem;
     color: white; /* Text color for better visibility */
      /* Adjust the blur intensity as needed */
+    backdrop-filter: blur(4rem); 
   }
   .content{
     height: 37rem;
